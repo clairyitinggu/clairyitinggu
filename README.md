@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Hi there, My name is Clair Gu, I am a fullstack engineer. 
+
+<img src="https://img.shields.io/badge/-HTML5-lightgrey"><img src="https://img.shields.io/badge/-CSS3-grey"><img src="https://img.shields.io/badge/-JavaScript-orange"><img src="https://img.shields.io/badge/-React-blue"><img src="https://img.shields.io/badge/-Next.js-red"><img src="https://img.shields.io/badge/-Java-brightgreen"><img src="https://img.shields.io/badge/-Python-yellowgreen"><img src="https://img.shields.io/badge/-Nodejs-lightgreen">
